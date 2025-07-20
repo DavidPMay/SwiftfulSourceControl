@@ -43,7 +43,8 @@ struct ContentView: View {
             Button("Click Me"){
                 
             }
-            Button("Click Me 2"){
+            Rectangle()
+            Button("Click Me 2") {
                 
             }
         }
@@ -51,6 +52,8 @@ struct ContentView: View {
         .padding()
         .background(Color.secondary)
     }
+    
+    
 }
 
 #Preview {
