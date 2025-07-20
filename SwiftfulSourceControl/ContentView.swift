@@ -11,17 +11,20 @@
  [Feature] Description of the feature
  
  
+ BUG NOT IN PRODUCTION:
+ [Bug] Fix this bug // Description of the bug
+ 
+ RELEASE:
+ [Release] Description of release
+ 
  BUG IN PRODUCTION:
  [Patch] Description of the patch
  
- BUG NOT IN PRODUCTION:
- [Bug] Fix this bug // Description of the bug
  
  MUNDATE TASKS:
  [Clean] Description of changes
  
- RELEASE:
- [Release] Description of release
+ 
  
  */
 import SwiftUI
