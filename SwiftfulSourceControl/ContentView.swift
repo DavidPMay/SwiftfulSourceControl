@@ -5,6 +5,13 @@
 //  Created by David May on 7/19/25.
 //
 /*
+ 
+ Clone = Copying the repo locally
+ Commit = Save "Checkpoint" on our current branch
+ Staging = Prepare changes for a commit
+ Stash = save changes for later
+ 
+ 
  COMMIT MESSAGES
  
  NEW FEATURE:
