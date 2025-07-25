@@ -44,11 +44,11 @@ struct ContentView: View {
             Image(systemName: "heart.fill")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
-            Text("Swiftful Thinking!")
+            Text("Swiftful Thinking!!!")
             Button("Subscribe!"){
                 
             }
-            .background(Color.blue)
+            .background(Color.white)
             Button("Click Me"){
                 
             }
