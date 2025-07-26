@@ -28,6 +28,9 @@ struct HomeView: View {
             Text("Some other texts")
             
         }
+        .onAppear {
+            // send analytics
+        }
     }
 }
 
